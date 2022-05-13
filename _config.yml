@@ -125,8 +125,8 @@ compress_html:
 
 # Analytics
 analytics:
-  provider : "google-gtag" 
+  provider : google-gtag
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id : "G-MJKHX0DHTS"
-    anonymize_ip : # true, false (default)
+    tracking_id : G-MJKHX0DHTS
+    anonymize_ip : false# true, false (default)
