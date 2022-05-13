@@ -102,8 +102,8 @@ color_scheme: light
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-# ga_tracking: UA-2709176-10
-# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+ga_tracking: G-MJKHX0DHTS
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
@@ -124,9 +124,9 @@ compress_html:
   #   envs: all
 
 # Analytics
-analytics:
-  provider : google-gtag
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id : G-MJKHX0DHTS
-    anonymize_ip : false# true, false (default)
+# analytics:
+#   provider : google-gtag
+#                           # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id : G-MJKHX0DHTS
+#     anonymize_ip : false# true, false (default)
