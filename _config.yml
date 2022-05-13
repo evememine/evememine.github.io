@@ -122,3 +122,11 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-4GW6L848ZM"
+    anonymize_ip         : # true, false (default)
