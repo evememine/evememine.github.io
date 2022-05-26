@@ -57,7 +57,6 @@ nav_order: 1
 
 - 워크플로우 관리 플랫폼에는 Luigi, kubeflow, Argo, Mlflow 등이 있음
 
-![Untitled](https://user-images.githubusercontent.com/97663140/169858506-7b84f77e-87b8-4cbc-b20f-451191a78a78.png)
 
 - 가장 대중적으로 사용하는 것은 Airbnb에서 개발한 Airflow와 spotify에서 개발한 Luigi
 - 루이지는 복잡한 API로 에어플로우보다 유연한 사용, 하지만 cron 사용하여 확장성 낮음
